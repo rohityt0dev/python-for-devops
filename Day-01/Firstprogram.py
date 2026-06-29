@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("This is my first Python program.")
+print("Rohit")
+print("😊")
+print(10 + 20)
