@@ -47,13 +47,13 @@ print("Hello World")
 Save the file as:
 
 ```text
-hello.py
+Firstprogram.py
 ```
 
 Run the program:
 
 ```bash
-python hello.py
+python Firstprogram.py
 ```
 
 ---
@@ -68,14 +68,14 @@ print("Hello World")
         │
         ▼
 
-Save as hello.py
+Save as Firstprogram.py
 
         │
         ▼
 
 Run
 
-python hello.py
+python Firstprogram.py
 
         │
         ▼
@@ -526,27 +526,6 @@ print(age + 5)
 - Operators perform calculations and comparisons.
 - `input()` accepts keyboard input and returns a string.
 - Use `int()` to convert string input into an integer.
-
----
-
-# 📁 Files Created
-
-```
-Day-01/
-│── hello.py
-│── README.md
-```
-
----
-
-# 📖 Next Topics
-
-- Identifiers
-- Type Casting
-- Strings
-- Conditional Statements (`if`, `elif`, `else`)
-- Loops (`for`, `while`)
-- Functions
 
 ---
 
